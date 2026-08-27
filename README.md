@@ -1,5 +1,5 @@
 # Quant-finance-challenges
-Repositório dedicado a desafios de finanças quantitativas, modelagem de mercado e sistemas de alta performance (HFT) em C++ e Python.
+A repository dedicated to challenges in quantitative finance, market modelling and high-performance systems (HFT) in C++ and Python.
 
 
 
